@@ -1,0 +1,53 @@
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 10px auto;
+    font-size: 14px;
+}
+td, th {
+    border: 2px solid #0994be;
+    padding: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+thead {
+    background-color: #0b5d8b;
+}
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: underline;
+  }
+  button:hover {
+    background-color: #09cc0f;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  button{
+  background-color: #4CAF50; color: white; font-size: 24px; padding: 12px 24px;
+ border: none; border-radius: 4px;
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+ transition: 0.3s; margin-left: 45%; max-width: 600px;}
+ .logo {
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+    background-color: skyblue;
+    
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-end;
+    max-width: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
